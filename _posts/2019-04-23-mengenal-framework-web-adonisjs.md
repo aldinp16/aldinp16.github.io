@@ -6,6 +6,9 @@ summary:    AdonisJs adalah web framework NodeJs dengan konsep MVC.
 categories: nodejs adonisjs mvc
 ---
 
+<div style="text-align: center;">
+  <img src="https://camo.githubusercontent.com/738622745b8c9b67eb681460a83371ad20f5b704/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f61646f6e69736a732f696d6167652f75706c6f61642f715f3130302f76313439373131323637382f61646f6e69732d707572706c655f707a6b6d7a742e737667" />
+</div>
 [**AdonisJs**](https://adonisjs.com/) adalah web framework **NodeJs** dengan konsep **MVC**. Sebelum kita mengenal jauh tentang Adonis ini ada baiknya kita mengenal terlebih dahulu apa itu NodeJs dan konsep MVC itu sendiri.
 
 <div style="text-align: center;">
