@@ -46,7 +46,7 @@ class UserController {
 }
 ```
 
-Walaupun AdonisJS ini memakai konsep MVC tetapi kitapun bisa membuat REST API karna Adonisjs ini menyediakan 3 blueprint yang bisa kita pakai yaitu Fullstack, Api only, dan slim. Jadi jika ingin membuat suatu REST API kita tidak membuatuhkan fitur view karna yang di return hanyalah sebuah JSON ataupun XML, jadi kita bisa memakai blueprint "Api only" untuk mengurangi dependensi yang tidak di pakai.
+Walaupun AdonisJS ini memakai konsep MVC tetapi kitapun bisa membuat REST API karna Adonisjs ini menyediakan 3 blueprint yang bisa kita pakai yaitu Fullstack, Api only, dan slim. Jadi jika ingin membuat suatu REST API kita tidak membutuhkan fitur view karna yang di return hanyalah sebuah JSON ataupun XML, jadi kita bisa memakai blueprint "Api only" untuk mengurangi dependensi yang tidak di pakai.
 
 Seperti yang sebelumnya saya bilang, AdonisJS dilengkapi banyak fitur sehingga mempercepat proses development dan pembuatan suatu aplikasi web.
 - Router
