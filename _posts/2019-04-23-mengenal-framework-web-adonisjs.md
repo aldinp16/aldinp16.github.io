@@ -21,7 +21,7 @@ categories: nodejs adonisjs mvc
 </div>
 > MVC Atau Model View Controller adalah sebuah konsep untuk membuat aplikasi dengan memisahkan Data (Model), Tampilan (View), dan proses (Controller). Konsep MVC ini akan memudahkan dalam membuat atau me-maintance suatu aplikasi karna struktur aplikasi yang jelas.
 
-Saya sangat sukda dengan AdonisJS ini karna dilengkapi banyak fitur sepeti [**adonis-ally**](https://github.com/adonisjs/adonis-ally), [**adonis-lucid**](https://github.com/adonisjs/adonis-lucid) dan lain2 sehingga bisa mempercepat proses pembuatan aplikasi tanpa harus bangun dari awal. Selain itu Adonisjs sudah mengadopsi *async / await* sehingga kode terlihat lebih indah dibanding kita memakai callback ataupun promise. [Dokumentasinya](https://adonisjs.com/docs/) yang cukup lumayan lengkap, dapat mudah dipahami dan adanya komunitas yang aktif di [forum](https://forum.adonisjs.com/) adalah salah satu kenapa saya cukup yakin framework ini akan berkembang menjadi besar.
+Saya sangat suka dengan AdonisJS ini karna dilengkapi banyak fitur sepeti [**adonis-ally**](https://github.com/adonisjs/adonis-ally), [**adonis-lucid**](https://github.com/adonisjs/adonis-lucid) dan lain2 sehingga bisa mempercepat proses pembuatan aplikasi tanpa harus bangun dari awal. Selain itu Adonisjs sudah mengadopsi *async / await* sehingga kode terlihat lebih indah dibanding kita memakai callback ataupun promise. [Dokumentasinya](https://adonisjs.com/docs/) yang cukup lumayan lengkap, dapat mudah dipahami dan adanya komunitas yang aktif di [forum](https://forum.adonisjs.com/) adalah salah satu kenapa saya cukup yakin framework ini akan berkembang menjadi besar.
 
 ```javascript
 const User = use('App/Models/User')
