@@ -63,10 +63,10 @@ function onConnectHandler () {
 nats.on('connect', onConnectHandler)
 
 // publish random number every 5 second
-setInterval(sendRandomSuhu, 5000)
+setInterval(sendRandomSuhu, interval)
 ```
 
-Lalu membuat subscribernya, disini saya buat subscriber agar memiliki `ID` diambil dari parameter pertama saat script dijalankan. Kegunaanya agar dapat dapat mengidentifikasi subscriber karna kita akan menjalankan lebih dari subscriber. Lalu berinama `subscriber.js`
+Lalu membuat subscribernya, disini saya buat subscriber agar memiliki `ID` diambil dari parameter pertama saat script dijalankan. Kegunaanya agar dapat dapat mengidentifikasi subscriber karna kita akan menjalankan lebih dari satu subscriber. Lalu berinama `subscriber.js`
 ```javascript
 #!/usr/bin/env node
 
